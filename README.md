@@ -4,7 +4,8 @@ This unit performs sterilization by increasing temperature to maximum value (X°
 <li> 1 press – 3 Mins
 <li> 2 presses – 5 Mins
 <li> 3 presses – 7 Mins
-<li> 4 presses – 10 Mins
+<li> 4 presses – 10 Mins <br>
+![sterilise](sterilize.png) <br>
   
 # Technical_Specifications
   
