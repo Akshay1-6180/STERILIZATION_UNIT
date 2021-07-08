@@ -5,7 +5,8 @@ This unit performs sterilization by increasing temperature to maximum value (X°
 <li> 2 presses – 5 Mins
 <li> 3 presses – 7 Mins
 <li> 4 presses – 10 Mins <br>
-![sterilise](https://github.com/Akshay1-6180/STERILIZATION_UNIT/blob/main/sterilize.png) <br>
+<img src= "https://github.com/Akshay1-6180/STERILIZATION_UNIT/blob/main/sterilize.png" alt="sterilize" width=300>
+</p><br>
   
 # Technical_Specifications
   
